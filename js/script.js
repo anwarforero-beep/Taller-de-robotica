@@ -1,1 +1,1 @@
-// Aquí puedes agregar funciones interactivas como calendario dinámico
+// Interactividad personalizada irá aquí
