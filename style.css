@@ -9,7 +9,14 @@
     text-decoration: none;
     font-weight: bold;
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: transform 0.3s;
 }
 .whatsapp:hover {
     background: #128c7e;
+    transform: scale(1.1);
+}
+#calendar {
+    min-height: 200px;
+    text-align: center;
+    font-weight: bold;
 }
